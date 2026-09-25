@@ -5,11 +5,11 @@ Repayment Assistance Plan (RAP), legacy Income-Based Repayment (IBR), and
 the new Tiered Standard plan, plus the notch/bunching, bracket-creep,
 break-even, and grid analyses built on top of it.
 
-## Layout
+## Layout (Make this yourself!)
 
 ```
 project/
-  code/      <- all scripts below live here; run them from inside this directory
+  code/      <- all scripts below live here; run them from inside this directory (move scripts here!)
   data/      <- created automatically: CSVs and .npy arrays
   figs/      <- created automatically: PNG figures and table images
 ```
